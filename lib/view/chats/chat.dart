@@ -45,13 +45,6 @@ class Chatscreen extends StatelessWidget {
         "profile": "assets/image/meno.webp"
       },
       {
-        "name": "Jack",
-        "message": "End With a Question.",
-        "time": "10.00pm",
-        "profile": "assets/image/meno.webp",
-        "count": "12"
-      },
-      {
         "name": "Boss",
         "message": "hello boss!..",
         "time": "10.00pm",
